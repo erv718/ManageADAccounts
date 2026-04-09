@@ -1,0 +1,11 @@
+{
+  "SecurityGroups": {
+    "SuperAdmin": "SG-AD-SuperAdmins",
+    "HelpDesk": "SG-AD-HelpDesk",
+    "ContractorManager": "SG-AD-ContractorMgr"
+  },
+  "SearchBaseOUs": [
+    "OU=YourOU,DC=YOURDOMAIN,DC=local"
+  ],
+  "AppTitle": "Contractors Account Management"
+}

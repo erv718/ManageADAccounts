@@ -1,0 +1,19 @@
+# Real config with sensitive values
+config.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# PowerShell
+*.psm1~
+*.ps1~
+
+# Windows
+Thumbs.db
+desktop.ini
